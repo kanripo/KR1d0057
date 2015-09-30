@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 禮記集說
-#+DATE: 2015-09-23 09:38:13
-#+PROPERTY: JUAN 37
+#+DATE: 2015-08-24 22:10:10.113339
+#+PROPERTY: ID KR1d0057
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷三十七
 <pb:KR1d0057_WYG_037-1a>¶
 欽定四庫全書¶
 　禮記集説卷三十七　　　　宋　衛湜　撰¶
@@ -596,4 +598,3 @@
 　¶
 　¶
 　禮記集説卷三十七¶
-

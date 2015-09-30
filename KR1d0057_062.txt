@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 禮記集說
-#+DATE: 2015-09-23 09:38:13
-#+PROPERTY: JUAN 62
+#+DATE: 2015-08-24 22:10:10.741034
+#+PROPERTY: ID KR1d0057
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷六十二
 <pb:KR1d0057_WYG_062-1a>¶
 欽定四庫全書¶
 　禮記集說卷六十二　　　　宋　衛湜　撰¶
@@ -722,4 +724,3 @@
 　宜乎質明而始行事晏朝而退也¶
 　山隂陸氏曰子路有為為之也即無為是圗速者也¶
 　禮記集說卷六十二¶
-

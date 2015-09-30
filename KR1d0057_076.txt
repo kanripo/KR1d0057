@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 禮記集說
-#+DATE: 2015-09-23 09:38:13
-#+PROPERTY: JUAN 76
+#+DATE: 2015-08-24 22:10:11.086068
+#+PROPERTY: ID KR1d0057
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷七十六
 <pb:KR1d0057_WYG_076-1a>¶
 欽定四庫全書¶
 　禮記集說卷七十六　　　　宋　衛湜　撰¶
@@ -776,4 +778,3 @@
 　¶
 　¶
 　禮記集説卷七十六¶
-

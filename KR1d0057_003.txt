@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 禮記集說
-#+DATE: 2015-09-23 09:38:13
-#+PROPERTY: JUAN 3
+#+DATE: 2015-08-24 22:10:09.254602
+#+PROPERTY: ID KR1d0057
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷三
 <pb:KR1d0057_WYG_003-1a>¶
 欽定四庫全書¶
 　禮記集説卷三　　　　　　宋　衛湜　撰¶
@@ -722,4 +724,3 @@
 　於長子冠於阼以著代也服之三年以稱情也則嫡¶
 　子之於父其可以不加隆乎¶
 　禮記集説卷三¶
-

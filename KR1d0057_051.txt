@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 禮記集說
-#+DATE: 2015-09-23 09:38:13
-#+PROPERTY: JUAN 51
+#+DATE: 2015-08-24 22:10:10.416406
+#+PROPERTY: ID KR1d0057
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷五十一
 <pb:KR1d0057_WYG_051-1a>¶
 欽定四庫全書¶
 　禮記集説卷五十一　　　　宋　衛湜　撰¶
@@ -578,4 +580,3 @@
 　¶
 　¶
 　禮記集説卷五十一¶
-

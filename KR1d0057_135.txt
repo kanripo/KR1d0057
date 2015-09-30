@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 禮記集說
-#+DATE: 2015-09-23 09:38:14
-#+PROPERTY: JUAN 135
+#+DATE: 2015-08-24 22:10:12.687576
+#+PROPERTY: ID KR1d0057
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷一百三十五
 <pb:KR1d0057_WYG_135-1a>¶
 欽定四庫全書¶
 　禮記集説卷一百三十五　　宋　衛湜　撰¶
@@ -1010,4 +1012,3 @@
 　¶
 　¶
 　禮記集説卷一百三十五¶
-

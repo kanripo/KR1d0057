@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 禮記集說
-#+DATE: 2015-09-23 09:38:13
-#+PROPERTY: JUAN 2
+#+DATE: 2015-08-24 22:10:09.233606
+#+PROPERTY: ID KR1d0057
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷二
 <pb:KR1d0057_WYG_002-1a>¶
 欽定四庫全書¶
 　禮記集説卷二　　　　　　宋　衛湜　撰¶
@@ -758,4 +760,3 @@
 　曰陸農師點人生十年曰幼作一句學作一句下倣¶
 　此亦有理¶
 　禮記集説卷二¶
-

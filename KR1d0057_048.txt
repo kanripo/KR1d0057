@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 禮記集說
-#+DATE: 2015-09-23 09:38:13
-#+PROPERTY: JUAN 48
+#+DATE: 2015-08-24 22:10:10.356427
+#+PROPERTY: ID KR1d0057
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷四十八
 <pb:KR1d0057_WYG_048-1a>¶
 欽定四庫全書¶
 　禮記集説卷四十八　　　　宋　衛湜　撰¶
@@ -524,4 +526,3 @@
 　也宗廟在庫門外雉門内故君出疆薨入自闕大斂¶
 　於阼殯於客位故入自闕升自西階¶
 　禮記集説卷四十八¶
-
